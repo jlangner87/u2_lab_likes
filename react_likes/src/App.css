@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.plus {
+background-color: rgb(50, 214, 50);
+margin: 0 4px 0 4px;
+height: 34px;
+width: 34px;
+font-size: 18px;
+font-weight: bolder;
+color: white;
+border: 2px solid black
+}
+
+.minus {
+background-color: rgb(252, 33, 33);
+margin: 0 4px 0 4px;
+height: 34px;
+width: 34px;
+font-size: 18px;
+font-weight: bolder;
+color: white;
+border: 2px solid black
+}
